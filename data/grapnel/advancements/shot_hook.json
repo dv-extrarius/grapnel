@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "shot_hook": {
+      "trigger": "minecraft:shot_crossbow",
+      "conditions": {
+        "item": {
+          "item": "minecraft:crossbow",
+          "nbt": "{Grapnel:1b}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "grapnel:shot_hook"
+  }
+}
