@@ -11,6 +11,6 @@
     }
   },
   "rewards": {
-    "function": "grapnel:shot_hook"
+    "function": "grapnel:shot_grapnel"
   }
 }
